@@ -1,45 +1,302 @@
-GL50803_17570,| organism=Giardia_Assemblage_A_isolate_WB | product=Elongation factor 2 | location=GLCHR04:2670898-2673594(+) | length=898,
-GL50803_17547,| organism=Giardia_Assemblage_A_isolate_WB | product=Ribosomal protein L4 | location=GLCHR05:2867111-2868061(-) | length=316,
-GL50803_16525,| organism=Giardia_Assemblage_A_isolate_WB | product=Ribosomal protein L3 | location=GLCHR04:2485220-2486359(+) | length=379,
-GL50803_17054,| organism=Giardia_Assemblage_A_isolate_WB | product=Acidic ribosomal protein P0 | location=GLCHR05:1006646-1007626(+) | length=326,
-GL50803_16265,| organism=Giardia_Assemblage_A_isolate_WB | product=Ribosomal protein S3a | location=GLCHR05:1319790-1320536(-) | length=248,
-GL50803_17244,| organism=Giardia_Assemblage_A_isolate_WB | product=Ribosomal protein L7a | location=GLCHR03:579698-580484(+) | length=225,
-GL50803_12102,| organism=Giardia_Assemblage_A_isolate_WB | product=Elongation factor 1-gamma | location=GLCHR04:57528-58736(-) | length=402,
-GL50803_101291,| organism=Giardia_Assemblage_A_isolate_WB | product=Beta tubulin | location=GLCHR05:3604400-3605743(-) | length=447,
-GL50803_103676,| organism=Giardia_Assemblage_A_isolate_WB | product=Alpha-tubulin | location=GLCHR05:3287152-3288516(-) | length=454,
-GL50803_4812,| organism=Giardia_Assemblage_A_isolate_WB | product=Beta-giardin | location=GLCHR04:2015776-2016594(+) | length=272,
-GL50803_17230,| organism=Giardia_Assemblage_A_isolate_WB | product=Gamma giardin | location=GLCHR03:483217-484152(-) | length=311,
-GL50803_114787,| organism=Giardia_Assemblage_A_isolate_WB | product=Alpha-7.3 giardin | location=GLCHR05:4401466-4402353(-) | length=295,
-GL50803_112103,| organism=Giardia_Assemblage_A_isolate_WB | product=Arginine deiminase | location=GLCHR03:1755615-1757357(-) | length=580,
-GL50803_113553,"| organism=Giardia_Assemblage_A_isolate_WB | product=Kinase, NEK | location=GLCHR03:476501-478453(+) | length=650",
-GL50803_15409,"| organism=Giardia_Assemblage_A_isolate_WB | product=Kinase, NEK | location=GLCHR02:126363-127910(+) | length=515",
-GL50803_10311,| organism=Giardia_Assemblage_A_isolate_WB | product=Ornithine carbamoyltransferase | location=GLCHR03:1022938-1023921(+) | length=327,
-GL50803_114609,| organism=Giardia_Assemblage_A_isolate_WB | product=Pyruvate-flavodoxin oxidoreductase | location=GLCHR02:1109298-1113059(+) | length=1253,
-GL50803_93548,| organism=Giardia_Assemblage_A_isolate_WB | product=Phospholipase B | location=GLCHR04:2373776-2375410(+) | length=544,
-GL50803_21942,| organism=Giardia_Assemblage_A_isolate_WB | product=NADP-specific glutamate dehydrogenase | location=GLCHR04:171236-172585(-) | length=449,
-GL50803_11118,| organism=Giardia_Assemblage_A_isolate_WB | product=Enolase | location=GLCHR05:2034587-2035924(+) | length=445,
-GL50803_13608,| organism=Giardia_Assemblage_A_isolate_WB | product=Acetyl-CoA synthetase | location=GLCHR03:1776507-1778687(-) | length=726,
-GL50803_93358,| organism=Giardia_Assemblage_A_isolate_WB | product=Alcohol dehydrogenase | location=GLCHR03:1463926-1466592(+) | length=888,
-GL50803_9909,"| organism=Giardia_Assemblage_A_isolate_WB | product=Pyruvate, phosphate dikinase | location=GLCHR04:1607101-1609755(-) | length=884",
-GL50803_15832,| organism=Giardia_Assemblage_A_isolate_WB | product=Aminoacyl-histidine dipeptidase | location=GLCHR05:3627220-3628794(+) | length=524,
-GL50803_5942,"| organism=Giardia_Assemblage_A_isolate_WB | product=Polyadenylate-binding protein, putative | location=GLCHR01:642027-643355(-) | length=442",
-GL50803_17163,| organism=Giardia_Assemblage_A_isolate_WB | product=Peptidyl-prolyl cis-trans isomerase B precursor | location=GLCHR01:556210-556716(+) | length=168,
-GL50803_17327,| organism=Giardia_Assemblage_A_isolate_WB | product=Xaa-Pro dipeptidase | location=GLCHR01:731223-732557(+) | length=444,
-GL50803_16453,| organism=Giardia_Assemblage_A_isolate_WB | product=Carbamate kinase | location=GLCHR02:366273-367223(+) | length=316,
-GL50803_9413,| organism=Giardia_Assemblage_A_isolate_WB | product=Protein disulfide isomerase PDI2 | location=GLCHR04:1891048-1892397(+) | length=449,
-GL50803_90872,| organism=Giardia_Assemblage_A_isolate_WB | product=Phosphoglycerate kinase | location=GLCHR02:165792-167021(-) | length=409,
-GL50803_14285,| organism=Giardia_Assemblage_A_isolate_WB | product=Malic enzyme | location=GLCHR05:3782272-3783945(-) | length=557,
-GL50803_17053,| organism=Giardia_Assemblage_A_isolate_WB | product=Protein 21.1 | location=GLCHR05:1007720-1010854(-) | length=1044,
-GL50803_16343,| organism=Giardia_Assemblage_A_isolate_WB | product=Median body protein | location=GLCHR05:3552633-3555206(+) | length=857,
-GL50803_137716,| organism=Giardia_Assemblage_A_isolate_WB | product=Axoneme-associated protein GASP-180 | location=GLCHR05:2250354-2255111(-) | length=1585,
-GL50803_9861,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR01:793818-794975(-) | length=385,
-GL50803_5795,| organism=Giardia_Assemblage_A_isolate_WB | product=Leucine-rich repeat protein 1 virus receptor protein | location=GLCHR02:648332-650581(+) | length=749,
-GL50803_17121,| organism=Giardia_Assemblage_A_isolate_WB | product=Bip | location=GLCHR04:535188-537221(+) | length=677,
-GL50803_88765,| organism=Giardia_Assemblage_A_isolate_WB | product=Cytosolic HSP70 | location=GLCHR01:313398-315392(+) | length=664,
-GL50803_21321,| organism=Giardia_Assemblage_A_isolate_WB | product=High cysteine membrane protein Group 5 | location=GLCHR04:2266029-2268056(-) | length=675,
-GL50803_14521,| organism=Giardia_Assemblage_A_isolate_WB | product=Peroxiredoxin 1 | location=GLCHR03:1256829-1257434(-) | length=201,
-GL50803_121045,| organism=Giardia_Assemblage_A_isolate_WB | product=Histone H2B | location=GLCHR05:3406202-3406594(+) | length=130,
-GL50803_21628,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR03:260572-261723(-) | length=383,
-GL50803_15324,| organism=Giardia_Assemblage_A_isolate_WB | product=Nucleotide-binding protein 1 | location=GLCHR02:321914-323032(+) | length=372,
-GL50803_10358,| organism=Giardia_Assemblage_A_isolate_WB | product=A-type flavoprotein lateral transfer candidate | location=GLCHR04:1730357-1731601(-) | length=414,
-GL50803_10843,| organism=Giardia_Assemblage_A_isolate_WB | product=Thymus-specific serine protease precursor | location=GLCHR01:1162137-1163705(-) | length=522,
+"5785_WB, Samples report created on 03/27/2015",,,,,,,,,
+Experiment: 5785_WB,,,,,,,,,
+,Peak List Generator: unknown,,,,,,,,
+,,Version: unknown,,,,,,,
+,,Charge States Calculated: unknown,,,,,,,
+,,Deisotoped: unknown,,,,,,,
+,,Textual Annotation: unknown,,,,,,,
+,Database Set: 1 Database,,,,,,,,
+,,Database Name: the p65_giardia_cds_d_20130118 database,,,,,,,
+,,,Version: unknown,,,,,,
+,,,Taxonomy: All Entries,,,,,,
+,,,Number of Proteins: 11802,,,,,,
+,,Does database contain common contaminants?: unknown,,,,,,,
+,Search Engine Set: 1 Search Engine,,,,,,,,
+,,Search Engine: Mascot,,,,,,,
+,,,Version: 2.4.1,,,,,,
+,,,Samples: All Samples,,,,,,
+,,,Fragment Tolerance: 0.030 Da (Monoisotopic),,,,,,
+,,,Parent Tolerance: 10.0 PPM (Monoisotopic),,,,,,
+,,,Fixed Modifications: ,,,,,,
+,,,Variable Modifications: +16 on M (Oxidation),,,,,,
+,,,"Database: the p65_giardia_cds_d_20130118 database (unknown version, 11802 entries)",,,,,,
+,,,Digestion Enzyme: Trypsin,,,,,,
+,,,Max Missed Cleavages: 1,,,,,,
+,,,Probability Model: ,,,,,,
+,,,,"Mudpit_20140718_sr_6335_5785_8 (F204031): LFDR Model, Classifier data: Bayes, Good (52%) m:49.3/s:14.1 m:NA m:NA m:46.5/s:15.5, Bad (48%) m:7.00/s:6.96 m:NA m:NA m:4.73/s:5.02 [all charge states]",,,,,
+,,,,"Mudpit_20140718_sr_6335_wb_3 (F204032): LFDR Model, Classifier data: Bayes, Good (50%) m:47.7/s:12.8 m:NA m:NA m:44.7/s:15.1, Bad (50%) m:13.8/s:5.57 m:NA m:NA m:8.97/s:5.07 [all charge states]",,,,,
+,Scaffold: Version: Scaffold_4.4.1.1,,,,,,,,
+,,Modification Metadata Set: 1541 modifications,,,,,,,
+,,,Source: C:\Program Files\Scaffold 4\parameters\unimod.xml,,,,,,
+,,,Comment: ,,,,,,
+,,Protein Grouping Strategy: Experiment-wide grouping with binary peptide-protein weights,,,,,,,
+,,Peptide Thresholds: 95.0 % minimum ,,,,,,,
+,,Protein Thresholds: 95.0 % minimum and 1 peptide minimum,,,,,,,
+,,Peptide FDR: 0.0 % (Decoy),,,,,,,
+,,Protein FDR: 0.0 % (Decoy),,,,,,,
+,,GO Annotation Source(s): ,,,,,,,
+,,,,,,,,,
+5785_WB,Displaying:Exclusive Spectrum Count,,,,,,,Uncategorized Sample,Uncategorized Sample
+#,Visible?,Starred?,Identified Proteins (260),Accession Number,Molecular Weight,Protein Grouping Ambiguity,Taxonomy,5785,WB
+1,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Arginine deiminase | location=GLCHR03:1755615-1757357(-) | length=580,GL50803_112103,64 kDa,,unknown,54,16
+2,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Elongation factor 1-alpha | location=GLCHR02:27919-29247(+) | length=442,GL50803_112304 (+1),49 kDa,,unknown,36,21
+3,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Beta tubulin | location=GLCHR05:3604400-3605743(-) | length=447,GL50803_101291 (+2),50 kDa,,unknown,28,6
+4,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Ornithine carbamoyltransferase | location=GLCHR03:1022938-1023921(+) | length=327,GL50803_10311,36 kDa,,unknown,24,18
+5,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Beta-giardin | location=GLCHR04:2015776-2016594(+) | length=272,GL50803_4812,31 kDa,,unknown,25,5
+6,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Bip | location=GLCHR04:535188-537221(+) | length=677,GL50803_17121,74 kDa,,unknown,31,6
+7,TRUE,Empty,"| organism=Giardia_Assemblage_A_isolate_WB | product=Pyruvate, phosphate dikinase | location=GLCHR04:1607101-1609755(-) | length=884",GL50803_9909,98 kDa,,unknown,22,6
+8,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Pyruvate-flavodoxin oxidoreductase | location=GLCHR02:1109298-1113059(+) | length=1253,GL50803_114609,139 kDa,,unknown,23,10
+9,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Leucine-rich repeat protein 1 virus receptor protein | location=GLCHR02:648332-650581(+) | length=749,GL50803_5795,85 kDa,,unknown,22,4
+10,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Axoneme-associated protein GASP-180 | location=GLCHR05:2250354-2255111(-) | length=1585,GL50803_137716,175 kDa,,unknown,29,5
+11,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR03:1042209-1042889(+) | length=226,GL50803_5785,25 kDa,,unknown,37,0
+12,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Alpha-tubulin | location=GLCHR05:3287152-3288516(-) | length=454,GL50803_103676 (+1),51 kDa,,unknown,14,6
+13,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Pyruvate-flavodoxin oxidoreductase | location=GLCHR05:2633106-2636705(-) | length=1199,GL50803_17063,132 kDa,,unknown,18,4
+14,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=UPL-1 | location=GLCHR04:22438-23370(+) | length=310,GL50803_9779,34 kDa,,unknown,17,4
+15,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Alcohol dehydrogenase | location=GLCHR03:1463926-1466592(+) | length=888,GL50803_93358,97 kDa,,unknown,17,7
+16,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Protein 21.1 | location=GLCHR05:1404750-1405742(-) | length=330,GL50803_9030,37 kDa,,unknown,13,7
+17,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Acyl-CoA synthetase | location=GLCHR03:1552447-1555359(+) | length=970,GL50803_86511,107 kDa,TRUE,unknown,14,2
+18,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Alpha-7.3 giardin | location=GLCHR05:4401466-4402353(-) | length=295,GL50803_114787,33 kDa,TRUE,unknown,17,8
+19,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Ribosomal protein L4 | location=GLCHR05:2867111-2868061(-) | length=316,GL50803_17547,35 kDa,,unknown,7,5
+20,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Fructose-bisphosphate aldolase | location=GLCHR03:1152763-1153734(+) | length=323,GL50803_11043,35 kDa,,unknown,7,5
+21,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Alpha-11 giardin | location=GLCHR05:1207222-1208145(-) | length=307,GL50803_17153,35 kDa,,unknown,13,7
+22,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR01:793818-794975(-) | length=385,GL50803_9861,43 kDa,TRUE,unknown,14,8
+23,TRUE,Empty,"| organism=Giardia_Assemblage_A_isolate_WB | product=Kinase, NEK-frag | location=GLCHR02:123292-125412(+) | length=706",GL50803_15411,78 kDa,,unknown,11,6
+24,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Phospholipase B | location=GLCHR04:2373776-2375410(+) | length=544,GL50803_93548,63 kDa,,unknown,9,3
+25,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Carbamate kinase | location=GLCHR02:366273-367223(+) | length=316,GL50803_16453,34 kDa,,unknown,12,3
+26,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Elongation factor 2 | location=GLCHR04:2670898-2673594(+) | length=898,GL50803_17570,100 kDa,,unknown,10,4
+27,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Alpha-1 giardin | location=GLCHR03:37988-38875(-) | length=295,GL50803_11654,34 kDa,TRUE,unknown,7,0
+28,TRUE,Empty,"| organism=Giardia_Assemblage_A_isolate_WB | product=Kinase, NEK | location=GLCHR02:126363-127910(+) | length=515",GL50803_15409,57 kDa,,unknown,7,6
+29,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Protein 21.1 | location=GLCHR05:3080424-3083039(-) | length=871,GL50803_21505,95 kDa,,unknown,10,3
+30,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=14-3-3 protein | location=GLCHR05:1524698-1525444(+) | length=248,GL50803_6430,29 kDa,,unknown,13,1
+31,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=ACTIN | location=GLCHR02:1296903-1298030(-) | length=375,GL50803_40817,42 kDa,,unknown,18,3
+32,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Gamma giardin | location=GLCHR03:483217-484152(-) | length=311,GL50803_17230,36 kDa,,unknown,9,3
+33,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Cytosolic HSP70 | location=GLCHR01:313398-315392(+) | length=664,GL50803_88765,72 kDa,,unknown,13,4
+34,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Dynamin | location=GLCHR03:741223-743421(+) | length=732,GL50803_14373,80 kDa,,unknown,15,1
+35,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Elongation factor 1-gamma | location=GLCHR04:57528-58736(-) | length=402,GL50803_12102,45 kDa,,unknown,9,4
+36,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=NADP-specific glutamate dehydrogenase | location=GLCHR04:171236-172585(-) | length=449,GL50803_21942,50 kDa,,unknown,7,1
+37,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Phosphoglycerate kinase | location=GLCHR02:165792-167021(-) | length=409,GL50803_90872,44 kDa,,unknown,11,4
+38,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Ribosomal protein SA | location=GLCHR05:3726722-3727459(+) | length=245,GL50803_7766,28 kDa,,unknown,9,4
+39,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Glyceraldehyde 3-phosphate dehydrogenase | location=GLCHR05:3056628-3057638(-) | length=336,GL50803_6687,36 kDa,,unknown,8,3
+40,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Glycerol-3-phosphate dehydrogenase | location=GLCHR05:2522245-2525580(-) | length=1111,GL50803_16125,119 kDa,,unknown,9,2
+41,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR01:1349849-1352362(-) | length=837,GL50803_113133,95 kDa,,unknown,9,0
+42,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Translation elongation factor | location=GLCHR01:1067637-1068299(-) | length=220,GL50803_13561,25 kDa,,unknown,9,4
+43,TRUE,Empty,"| organism=Giardia_Assemblage_A_isolate_WB | product=Kinase, NEK | location=GLCHR04:11022-13493(-) | length=823",GL50803_16824,91 kDa,,unknown,11,7
+44,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Axoneme-associated protein GASP-180 | location=GLCHR05:2382291-2385410(+) | length=1039,GL50803_16745,116 kDa,,unknown,9,1
+45,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Enolase | location=GLCHR05:2034587-2035924(+) | length=445,GL50803_11118,48 kDa,,unknown,6,3
+46,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Peroxiredoxin 1 | location=GLCHR03:1256829-1257434(-) | length=201,GL50803_14521 (+1),23 kDa,,unknown,9,0
+47,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Ribosomal protein S3a | location=GLCHR05:1319790-1320536(-) | length=248,GL50803_16265,28 kDa,,unknown,6,3
+48,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR01:702956-707926(-) | length=1656,GL50803_17332,179 kDa,,unknown,8,2
+49,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Vacuolar protein sorting 35 | location=GLCHR05:2097082-2099379(-) | length=765,GL50803_23833,88 kDa,,unknown,3,1
+50,TRUE,Empty,"| organism=Giardia_Assemblage_A_isolate_WB | product=Polyadenylate-binding protein, putative | location=GLCHR01:642027-643355(-) | length=442",GL50803_5942,50 kDa,,unknown,3,0
+51,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR05:3484925-3490639(+) | length=1904,GL50803_9183,214 kDa,,unknown,5,0
+52,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Ribosomal protein L5 | location=GLCHR02:804131-805024(+) | length=297,GL50803_17395,34 kDa,,unknown,4,2
+53,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=NSF | location=GLCHR03:60247-62721(+) | length=824,GL50803_114776,90 kDa,TRUE,unknown,5,3
+54,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Transketolase | location=GLCHR03:349269-351428(-) | length=719,GL50803_9704,78 kDa,,unknown,7,2
+55,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Alpha-2 giardin | location=GLCHR03:111206-112096(+) | length=296,GL50803_7796,34 kDa,TRUE,unknown,4,2
+56,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=High cysteine membrane protein Group 5 | location=GLCHR04:2266029-2268056(-) | length=675,GL50803_21321,73 kDa,TRUE,unknown,7,5
+57,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Protein 21.1 | location=GLCHR04:549675-552035(+) | length=786,GL50803_27925,88 kDa,,unknown,6,0
+58,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Vacuolar ATP synthase catalytic subunit A | location=GLCHR03:288880-290847(+) | length=655,GL50803_7532,72 kDa,,unknown,9,0
+59,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Coiled-coil protein | location=GLCHR02:1450392-1457219(+) | length=2275,GL50803_113677,255 kDa,,unknown,5,0
+60,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR03:1014515-1014916(+) | length=133,GL50803_29147,14 kDa,,unknown,3,0
+61,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=hypothetical protein | location=GLCHR01:563397-564464(+) | length=355,GL50803_17161,38 kDa,,unknown,1,0
+62,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Malic enzyme | location=GLCHR05:3782272-3783945(-) | length=557,GL50803_14285,62 kDa,,unknown,6,2
+63,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=AAA family ATPase | location=GLCHR04:2615634-2618246(+) | length=870,GL50803_16867,96 kDa,,unknown,8,5
+64,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Acetyl-CoA synthetase | location=GLCHR03:1776507-1778687(-) | length=726,GL50803_13608,78 kDa,,unknown,6,1
+65,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR05:3564268-3568260(+) | length=1330,GL50803_101278,150 kDa,,unknown,6,0
+66,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Acyl-CoA synthetase | location=GLCHR04:754005-756722(-) | length=905,GL50803_16667,99 kDa,TRUE,unknown,5,0
+67,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Ribosomal protein L13 | location=GLCHR01:1437382-1438086(+) | length=234,GL50803_14622,27 kDa,,unknown,2,0
+68,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=CH991767:1106175-1110134(+) | length=1319,GL50803_41212,149 kDa,,unknown,8,0
+69,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR03:260572-261723(-) | length=383,GL50803_21628,42 kDa,TRUE,unknown,7,2
+70,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Protein 21.1 | location=GLCHR05:4353561-4355606(-) | length=681,GL50803_12139,76 kDa,,unknown,4,2
+71,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Peptidyl-prolyl cis-trans isomerase B precursor | location=GLCHR01:556210-556716(+) | length=168,GL50803_17163,18 kDa,,unknown,3,2
+72,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Ribosomal protein S5 | location=CH991769:654358-654930(+) | length=190,GL50803_12981,21 kDa,,unknown,3,4
+73,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=TCP-1 chaperonin subunit beta | location=GLCHR02:118733-120310(-) | length=525,GL50803_11397,57 kDa,,unknown,6,3
+74,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Glycogen phosphorylase | location=GLCHR05:3185783-3188557(+) | length=924,GL50803_6226,105 kDa,,unknown,2,0
+75,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=ATP-dependent RNA helicase-like protein | location=GLCHR05:1698177-1700147(+) | length=656,GL50803_15048,73 kDa,,unknown,1,0
+76,TRUE,Empty,"| organism=Giardia_Assemblage_A_isolate_WB | product=Kinase, NEK | location=GLCHR03:476501-478453(+) | length=650",GL50803_113553,72 kDa,,unknown,4,0
+77,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR04:577446-581231(-) | length=1261,GL50803_6464,142 kDa,,unknown,4,0
+78,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Isoleucyl-tRNA synthetase | location=GLCHR04:2465183-2468680(+) | length=1165,GL50803_104173,134 kDa,,unknown,3,0
+79,TRUE,Empty,"| organism=Giardia_Assemblage_A_isolate_WB | product=Alanine aminotransferase, putative | location=GLCHR03:667326-668891(+) | length=521",GL50803_12150,58 kDa,,unknown,3,0
+80,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Alpha-3 giardin | location=GLCHR05:2835685-2836575(-) | length=296,GL50803_11683,33 kDa,,unknown,3,0
+81,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=TCP-1 chaperonin subunit zeta | location=GLCHR03:1883520-1885199(+) | length=559,GL50803_10231,61 kDa,,unknown,2,0
+82,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=5'-3' exoribonuclease 2 | location=GLCHR04:1676804-1682674(+) | length=1956,GL50803_113365,221 kDa,,unknown,3,0
+83,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Protein disulfide isomerase PDI2 | location=GLCHR04:1891048-1892397(+) | length=449,GL50803_9413,50 kDa,TRUE,unknown,7,0
+84,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Delta giardin | location=GLCHR05:3465546-3466427(-) | length=293,GL50803_86676,34 kDa,,unknown,2,1
+85,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=TCP-1 chaperonin subunit gamma | location=GLCHR02:1158486-1160180(-) | length=564,GL50803_17411,62 kDa,,unknown,3,0
+86,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Coiled-coil protein | location=GLCHR03:1540416-1543988(+) | length=1190,GL50803_10167,133 kDa,,unknown,7,1
+87,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Coiled-coil protein | location=GLCHR04:330287-335314(-) | length=1675,GL50803_17249,191 kDa,,unknown,6,0
+88,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Clathrin heavy chain | location=GLCHR04:1021986-1027601(+) | length=1871,GL50803_102108,207 kDa,,unknown,6,0
+89,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Plasma membrane calcium-transporting ATPase 2 | location=GLCHR05:4209683-4212970(+) | length=1095,GL50803_32658,120 kDa,,unknown,6,0
+90,TRUE,Empty,"| organism=Giardia_Assemblage_A_isolate_WB | product=Translation initiation factor eIF-4A, putative | location=GLCHR01:1336531-1337706(-) | length=391",GL50803_10255,43 kDa,,unknown,6,2
+91,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Acidic ribosomal protein P0 | location=GLCHR05:1006646-1007626(+) | length=326,GL50803_17054,35 kDa,,unknown,2,1
+92,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=TCP-1 chaperonin subunit eta | location=GLCHR05:2528272-2530059(-) | length=595,GL50803_16124,65 kDa,,unknown,3,1
+93,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Pyruvate kinase | location=GLCHR04:633554-635215(-) | length=553,GL50803_17143,61 kDa,,unknown,3,0
+94,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=TCP-1 chaperonin subunit theta | location=GLCHR02:523561-525252(-) | length=563,GL50803_13500,61 kDa,,unknown,4,0
+95,TRUE,Empty,"| organism=Giardia_Assemblage_A_isolate_WB | product=Long chain fatty acid CoA ligase, putative | location=GLCHR05:1883933-1886209(-) | length=758",GL50803_113892,85 kDa,,unknown,2,0
+96,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Protein 21.1 | location=GLCHR05:2663387-2665258(+) | length=623,GL50803_17060,66 kDa,,unknown,3,2
+97,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Potassium-transporting ATPase alpha chain 1 | location=GLCHR02:1325350-1329357(+) | length=1335,GL50803_96670,148 kDa,,unknown,2,3
+98,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Alpha-7.2 giardin | location=GLCHR05:1353447-1354613(+) | length=388,GL50803_114119,43 kDa,TRUE,unknown,4,1
+99,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Ribosomal protein S7 | location=GLCHR05:3929431-3930003(-) | length=190,GL50803_14329,22 kDa,,unknown,1,0
+100,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR03:1585416-1587962(-) | length=848,GL50803_103709,95 kDa,,unknown,3,0
+101,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Histone H4 | location=GLCHR03:1932253-1932552(+) | length=99,GL50803_135001 (+2),11 kDa,,unknown,4,0
+102,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=TCP-1 chaperonin subunit epsilon | location=GLCHR01:1045147-1046808(-) | length=553,GL50803_11992,61 kDa,,unknown,1,0
+103,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR02:1258895-1259839(-) | length=314,GL50803_14939,35 kDa,,unknown,8,0
+104,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Glucokinase | location=GLCHR05:1550601-1551632(+) | length=343,GL50803_8826,38 kDa,,unknown,5,2
+105,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Protein 21.1 | location=GLCHR03:1345802-1351357(-) | length=1851,GL50803_24842,201 kDa,,unknown,3,1
+106,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Arginyl-tRNA synthetase | location=GLCHR05:4285799-4287664(-) | length=621,GL50803_10521,70 kDa,,unknown,5,1
+107,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Histone H2A | location=GLCHR03:1906818-1907192(+) | length=124,GL50803_14256 (+1),14 kDa,,unknown,2,2
+108,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase | location=GLCHR02:158347-159240(+) | length=297,GL50803_7259,32 kDa,,unknown,0,1
+109,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=WD-40 repeat protein family | location=GLCHR01:1299082-1300110(-) | length=342,GL50803_10822,39 kDa,,unknown,0,2
+110,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Kinesin-3 | location=GLCHR04:1028107-1031394(-) | length=1095,GL50803_112846,121 kDa,,unknown,4,0
+111,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR04:2361061-2362035(+) | length=324,GL50803_16844,35 kDa,,unknown,2,0
+112,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Histone H3 | location=GLCHR04:220892-221332(+) | length=146,GL50803_135231 (+1),16 kDa,,unknown,1,0
+113,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Protein 21.1 | location=GLCHR04:312948-313979(-) | length=343,GL50803_102813,37 kDa,,unknown,7,0
+114,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Pyruvate kinase | location=GLCHR03:652902-654866(-) | length=654,GL50803_3206,71 kDa,,unknown,4,0
+115,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Histone H2B | location=GLCHR05:3406202-3406594(+) | length=130,GL50803_121045 (+1),15 kDa,,unknown,7,0
+116,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Importin beta-3 subunit | location=GLCHR05:4410235-4413690(-) | length=1151,GL50803_15106,128 kDa,,unknown,2,0
+117,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Alpha-6 giardin | location=GLCHR03:109136-110029(+) | length=297,GL50803_14551,33 kDa,,unknown,2,1
+118,TRUE,Empty,"| organism=Giardia_Assemblage_A_isolate_WB | product=Spindle pole protein, putative | location=GLCHR01:308747-311734(-) | length=995",GL50803_7031,109 kDa,,unknown,2,1
+119,TRUE,Empty,"| organism=Giardia_Assemblage_A_isolate_WB | product=Alpha-SNAP, putative | location=GLCHR05:4414511-4415407(-) | length=298",GL50803_17224,33 kDa,,unknown,1,1
+120,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=A-type flavoprotein lateral transfer candidate | location=GLCHR04:1730357-1731601(-) | length=414,GL50803_10358,47 kDa,,unknown,4,1
+121,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Protein disulfide isomerase PDI4 | location=GLCHR03:1433304-1434368(-) | length=354,GL50803_103713,40 kDa,TRUE,unknown,3,1
+122,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Ribosomal protein S15 | location=GLCHR05:2468341-2468778(-) | length=145,GL50803_15260,17 kDa,,unknown,0,2
+123,TRUE,Empty,"| organism=Giardia_Assemblage_A_isolate_WB | product=Spindle pole protein, putative | location=GLCHR05:1004642-1006306(-) | length=554",GL50803_17055,62 kDa,,unknown,2,0
+124,TRUE,Empty,"| organism=Giardia_Assemblage_A_isolate_WB | product=4-alpha-glucanotransferase, amylo-alpha-1,6-glucosidase | location=GLCHR03:1787030-1792225(+) | length=1731",GL50803_10885,196 kDa,,unknown,1,0
+125,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Leucine-rich repeat protein | location=GLCHR05:2836760-2839216(+) | length=818,GL50803_11684,89 kDa,,unknown,1,0
+126,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Heat shock protein HSP 90-alpha | location=GLCHR05:2514317-2515447(+) | length=376,GL50803_98054,43 kDa,,unknown,4,0
+127,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Ribosomal protein L7a | location=GLCHR03:579698-580484(+) | length=225,GL50803_17244,25 kDa,,unknown,3,0
+128,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Chaperone protein DnaJ | location=GLCHR05:1713531-1714760(-) | length=409,GL50803_9808,45 kDa,,unknown,2,0
+129,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR02:325309-327186(+) | length=625,GL50803_10971,69 kDa,,unknown,4,0
+130,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=CH991761:243767-244651(+) | length=294,GL50803_15251,32 kDa,,unknown,2,0
+131,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Ribosomal protein L23A | location=GLCHR04:1500461-1500886(-) | length=141,GL50803_7870,16 kDa,,unknown,1,2
+132,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR04:2457225-2460488(-) | length=1087,GL50803_13922,114 kDa,,unknown,3,1
+133,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=High cysteine membrane protein Group 1 | location=GLCHR04:2475997-2480844(-) | length=1615,GL50803_15317,170 kDa,,unknown,1,1
+134,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Pyrophosphate-fructose 6-phosphate 1-phosphotransferase alpha subunit | location=GLCHR05:3906198-3907832(-) | length=544,GL50803_14993,60 kDa,,unknown,2,0
+135,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR04:412122-413564(+) | length=480,GL50803_94463,53 kDa,,unknown,3,0
+136,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR02:1226732-1227676(-) | length=314,GL50803_17400,35 kDa,,unknown,2,0
+137,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Aminoacyl-histidine dipeptidase | location=GLCHR05:3627220-3628794(+) | length=524,GL50803_15832,57 kDa,,unknown,2,0
+138,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=NADH oxidase lateral transfer candidate | location=GLCHR01:307195-308649(-) | length=484,GL50803_33769,53 kDa,,unknown,2,0
+139,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR05:2951652-2954912(-) | length=1086,GL50803_4266,121 kDa,,unknown,3,0
+140,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=MDR-type permease | location=GLCHR05:895915-897915(+) | length=666,GL50803_8444,74 kDa,,unknown,3,0
+141,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Threonine dehydratase lateral transfer candidate | location=GLCHR04:52029-54842(-) | length=937,GL50803_12108,104 kDa,,unknown,2,0
+142,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR05:1459747-1460850(-) | length=367,GL50803_7444,41 kDa,,unknown,1,0
+143,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Ribosomal protein L7 | location=GLCHR04:2481439-2482146(+) | length=235,GL50803_19436,27 kDa,,unknown,1,0
+144,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR04:167330-167791(-) | length=153,GL50803_21943,17 kDa,,unknown,3,0
+145,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Coiled-coil protein | location=CH991767:452286-457343(+) | length=1685,GL50803_15591,186 kDa,,unknown,2,1
+146,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Nucleoside diphosphate kinase | location=GLCHR04:1423378-1423833(+) | length=151,GL50803_11301,17 kDa,,unknown,2,1
+147,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Seven transmembrane protein 1 | location=GLCHR05:817783-818739(+) | length=318,GL50803_8044,35 kDa,,unknown,2,0
+148,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR01:388553-392485(-) | length=1310,GL50803_22543,147 kDa,,unknown,0,1
+149,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Ribosomal protein L10a | location=GLCHR05:3788386-3789051(-) | length=221,GL50803_1345,25 kDa,,unknown,1,0
+150,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Heat shock protein 70 | location=GLCHR04:1771264-1774995(+) | length=1243,GL50803_17432,139 kDa,,unknown,2,0
+151,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Amino acid transporter family | location=GLCHR03:1237961-1239634(-) | length=557,GL50803_7909,62 kDa,,unknown,2,0
+152,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Beta adaptin | location=GLCHR05:4202692-4206090(-) | length=1132,GL50803_21423,123 kDa,,unknown,1,0
+153,TRUE,Empty,"| organism=Giardia_Assemblage_A_isolate_WB | product=Ser/Thr phosphatase 2A, 65kDa reg sub A | location=GLCHR05:1456301-1458259(+) | length=652",GL50803_7439,72 kDa,,unknown,1,0
+154,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Prolyl-tRNA synthetase | location=GLCHR04:2274485-2276113(+) | length=542,GL50803_15983,61 kDa,,unknown,1,0
+155,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Aspartyl-tRNA synthetase | location=GLCHR03:1808321-1809988(-) | length=555,GL50803_10870,63 kDa,,unknown,2,0
+156,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Protein 21.1 | location=GLCHR05:2201241-2204018(+) | length=925,GL50803_14859,103 kDa,,unknown,1,0
+157,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Actin related protein | location=GLCHR05:2968747-2971653(+) | length=968,GL50803_8726,106 kDa,,unknown,3,0
+158,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=TCP-1 chaperonin subunit alpha | location=GLCHR04:1267312-1268964(+) | length=550,GL50803_91919,59 kDa,,unknown,2,0
+159,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Sec61-alpha | location=GLCHR04:2272848-2274320(-) | length=490,GL50803_5744,54 kDa,,unknown,1,0
+160,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Thymus-specific serine protease precursor | location=GLCHR01:1162137-1163705(-) | length=522,GL50803_10843,58 kDa,,unknown,2,2
+161,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Malate dehydrogenase | location=GLCHR02:769888-770883(+) | length=331,GL50803_3331,35 kDa,,unknown,2,2
+162,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Ribosomal protein L23 | location=GLCHR05:1285238-1285666(-) | length=142,GL50803_10091,15 kDa,,unknown,1,2
+163,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=TCP-1 chaperonin subunit alpha | location=GLCHR04:165690-167243(-) | length=517,GL50803_17482,56 kDa,,unknown,3,1
+164,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Xaa-Pro dipeptidase | location=GLCHR01:731223-732557(+) | length=444,GL50803_17327,50 kDa,,unknown,1,1
+165,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Phosphatase | location=GLCHR01:1234177-1235109(-) | length=310,GL50803_15215,35 kDa,,unknown,1,0
+166,TRUE,Empty,"| organism=Giardia_Assemblage_A_isolate_WB | product=Spindle pole protein, putative | location=GLCHR04:1463481-1465028(-) | length=515",GL50803_24537,59 kDa,,unknown,2,0
+167,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Protein 21.1 | location=GLCHR04:842972-845128(+) | length=718,GL50803_17585,77 kDa,,unknown,0,1
+168,TRUE,Empty,"| organism=Giardia_Assemblage_A_isolate_WB | product=Heat-shock protein, putative | location=GLCHR04:1692786-1695323(+) | length=845",GL50803_16412,95 kDa,,unknown,2,0
+169,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Ribosomal protein L11 | location=GLCHR05:3392830-3393351(-) | length=173,GL50803_5593,20 kDa,,unknown,0,1
+170,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Protein 21.1 | location=GLCHR01:1083611-1085377(-) | length=588,GL50803_32778,64 kDa,,unknown,2,0
+171,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=ABC transporter family protein | location=GLCHR02:555290-558115(-) | length=941,GL50803_92223,106 kDa,,unknown,2,0
+172,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Aldose reductase | location=GLCHR03:552575-553486(+) | length=303,GL50803_9008,35 kDa,,unknown,1,0
+173,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Seryl-tRNA synthetase | location=GLCHR03:1191832-1193205(-) | length=457,GL50803_101501,52 kDa,,unknown,3,0
+174,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Protein 21.1 | location=GLCHR04:2676938-2678560(-) | length=540,GL50803_17568,60 kDa,,unknown,2,0
+175,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=4-alpha-glucanotransferase | location=GLCHR03:890143-893790(-) | length=1215,GL50803_8978,138 kDa,,unknown,1,0
+176,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR05:2360937-2361416(-) | length=159,GL50803_7204,19 kDa,,unknown,2,0
+177,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR05:3813460-3816432(+) | length=990,GL50803_16653,103 kDa,,unknown,1,0
+178,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Alpha adaptin | location=GLCHR02:550302-552653(+) | length=783,GL50803_17304,87 kDa,,unknown,1,0
+179,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Uridine kinase | location=GLCHR05:1578937-1580985(-) | length=682,GL50803_16549,77 kDa,,unknown,1,0
+180,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Axoneme-associated protein GASP-180 | location=GLCHR05:1995462-2001836(-) | length=2124,GL50803_13475,236 kDa,,unknown,2,0
+181,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Heat shock protein HSP 90-alpha | location=GLCHR05:1731251-1732225(+) | length=324,GL50803_13864,37 kDa,,unknown,2,0
+182,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Coatomer alpha subunit | location=GLCHR04:898146-901979(+) | length=1277,GL50803_11953,139 kDa,,unknown,2,0
+183,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=DRE4 protein | location=GLCHR04:1807506-1811003(-) | length=1165,GL50803_17430,130 kDa,,unknown,2,0
+184,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Chaperone protein dnaJ | location=GLCHR03:1879451-1881295(-) | length=614,GL50803_15148,67 kDa,,unknown,2,0
+185,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Glutaminyl-tRNA synthetase | location=GLCHR05:3957321-3959612(-) | length=763,GL50803_9348,88 kDa,,unknown,2,0
+186,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=NADH oxidase | location=GLCHR05:2174947-2176236(+) | length=429,GL50803_9719,47 kDa,,unknown,2,0
+187,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Nucleolar protein NOP5 | location=GLCHR01:745277-746773(-) | length=498,GL50803_10577,55 kDa,,unknown,1,0
+188,TRUE,Empty,"| organism=Giardia_Assemblage_A_isolate_WB | product=26S proteasome regulatory subunit, putative | location=GLCHR01:1198367-1202413(+) | length=1348",GL50803_91643,148 kDa,,unknown,1,1
+189,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR05:2095138-2096601(+) | length=487,GL50803_92760,55 kDa,,unknown,0,1
+190,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Ribosomal protein S18 | location=GLCHR01:1044604-1045068(-) | length=154,GL50803_15551,17 kDa,,unknown,0,1
+191,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Aldose reductase | location=GLCHR02:157396-158337(+) | length=313,GL50803_7260,35 kDa,,unknown,0,1
+192,TRUE,Empty,"| organism=Giardia_Assemblage_A_isolate_WB | product=Serine peptidase, putative | location=GLCHR02:1252003-1253412(-) | length=469",GL50803_15871,53 kDa,,unknown,0,1
+193,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Ser/Thr phosphatase | location=GLCHR01:1235254-1236180(-) | length=308,GL50803_15214,35 kDa,,unknown,1,0
+194,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Alpha-10 giardin | location=GLCHR05:1209188-1210174(-) | length=328,GL50803_5649,37 kDa,,unknown,1,0
+195,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Dipeptidyl-peptidase III | location=GLCHR03:1563277-1565382(+) | length=701,GL50803_33689,79 kDa,,unknown,1,0
+196,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=FKBP-type peptidyl-prolyl cis-trans isomerase | location=GLCHR01:755256-756320(-) | length=354,GL50803_10570,39 kDa,,unknown,1,0
+197,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR04:472479-475139(-) | length=886,GL50803_16504,97 kDa,,unknown,0,1
+198,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR04:2001138-2003357(-) | length=739,GL50803_115478 (+1),80 kDa,,unknown,1,0
+199,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=TBP-interacting protein TIP49 | location=GLCHR02:679775-681181(+) | length=468,GL50803_9825,51 kDa,,unknown,1,0
+200,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Ribosomal protein S2 | location=GLCHR05:3165605-3166333(-) | length=242,GL50803_8118,27 kDa,,unknown,1,0
+201,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Glucose-6-phosphate 1-dehydrogenase | location=GLCHR04:1558071-1560299(+) | length=742,GL50803_8682,83 kDa,,unknown,1,0
+202,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Sec31 | location=GLCHR04:1983791-1986865(-) | length=1024,GL50803_2562,110 kDa,,unknown,1,0
+203,TRUE,Empty,"| organism=Giardia_Assemblage_A_isolate_WB | product=ABC transporter, ATP-binding protein | location=GLCHR05:4249516-4255452(-) | length=1978",GL50803_21411,222 kDa,,unknown,1,0
+204,TRUE,Empty,"| organism=Giardia_Assemblage_A_isolate_WB | product=Cation-transporting ATPase 2, putative | location=GLCHR02:534350-538450(+) | length=1366",GL50803_92246,152 kDa,,unknown,3,0
+205,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Leucyl-tRNA synthetase | location=GLCHR01:228260-231781(-) | length=1173,GL50803_8621,132 kDa,,unknown,2,0
+206,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=High cysteine membrane protein Group 5 | location=GLCHR05:3735025-3737049(+) | length=674,GL50803_16716,73 kDa,TRUE,unknown,3,0
+207,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Lysyl-tRNA synthetase | location=GLCHR05:3606086-3607816(-) | length=576,GL50803_16766,66 kDa,,unknown,2,0
+208,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR04:481202-483829(+) | length=875,GL50803_16507,99 kDa,,unknown,2,0
+209,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Stress-induced-phosphoprotein 1 | location=GLCHR03:1678162-1679925(-) | length=587,GL50803_27310,65 kDa,,unknown,1,0
+210,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Rab1a | location=GLCHR04:1522714-1523352(+) | length=212,GL50803_9558,23 kDa,,unknown,1,0
+211,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR01:931872-933560(+) | length=562,GL50803_5883,63 kDa,,unknown,1,0
+212,TRUE,Empty,"| organism=Giardia_Assemblage_A_isolate_WB | product=Kinase, NEK | location=GLCHR02:1042114-1046373(-) | length=1419",GL50803_16967,155 kDa,,unknown,1,0
+213,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Vacuolar ATP synthase subunit D | location=GLCHR05:4059643-4060449(-) | length=268,GL50803_3678,29 kDa,,unknown,1,0
+214,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR05:1332293-1333606(-) | length=437,GL50803_22855,48 kDa,,unknown,1,0
+215,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Ribosomal protein L26 | location=GLCHR04:25780-26187(+) | length=135,GL50803_15046,16 kDa,,unknown,1,0
+216,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Giardia trophozoite antigen GTA-2 | location=GLCHR03:946579-947289(-) | length=236,GL50803_15427,27 kDa,,unknown,2,0
+217,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=WD-40 repeat protein | location=GLCHR02:1307572-1308477(-) | length=301,GL50803_33762,33 kDa,,unknown,0,1
+218,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR03:726468-727076(-) | length=202,GL50803_6366,22 kDa,,unknown,0,1
+219,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=26S protease regulatory subunit 7 | location=GLCHR05:3471841-3473373(-) | length=510,GL50803_86683,56 kDa,,unknown,0,1
+220,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Cytidine deaminase | location=GLCHR01:1154613-1155017(+) | length=134,GL50803_2101,14 kDa,,unknown,1,0
+221,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR04:435707-437125(+) | length=472,GL50803_22291,52 kDa,,unknown,2,0
+222,TRUE,Empty,"| organism=Giardia_Assemblage_A_isolate_WB | product=Kinase, CK1 Casein kinase | location=GLCHR03:281585-282790(-) | length=401",GL50803_7537,46 kDa,,unknown,2,0
+223,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR05:4029727-4033038(-) | length=1103,GL50803_7188,116 kDa,,unknown,2,0
+224,TRUE,Empty,"| organism=Giardia_Assemblage_A_isolate_WB | product=Kinase, NEK | location=GLCHR05:4192204-4194297(-) | length=697",GL50803_112518,76 kDa,,unknown,2,0
+225,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Asparaginyl-tRNA synthetase | location=GLCHR03:736922-738568(+) | length=548,GL50803_14375,62 kDa,,unknown,2,0
+226,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Protein 21.1 | location=GLCHR03:601168-603705(-) | length=845,GL50803_13766,93 kDa,,unknown,2,0
+227,TRUE,Empty,"| organism=Giardia_Assemblage_A_isolate_WB | product=Kinase, NEK | location=GLCHR01:1457898-1459427(+) | length=509",GL50803_2483,57 kDa,,unknown,1,0
+228,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Protein 21.1 | location=GLCHR04:2132038-2135262(-) | length=1074,GL50803_17551,119 kDa,,unknown,2,0
+229,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=ADP-ribosylation factor | location=GLCHR05:3986169-3986744(+) | length=191,GL50803_7789,22 kDa,,unknown,1,0
+230,TRUE,Empty,"| organism=Giardia_Assemblage_A_isolate_WB | product=Kinase, CDC7 | location=GLCHR03:1821134-1826227(+) | length=1697",GL50803_112076,190 kDa,,unknown,1,0
+231,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR04:1646820-1647215(-) | length=131,GL50803_5810,15 kDa,,unknown,1,0
+232,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=ABC transporter family protein | location=GLCHR05:1722887-1726144(-) | length=1085,GL50803_16575,120 kDa,,unknown,1,0
+233,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR04:189989-190834(-) | length=281,GL50803_11354,30 kDa,,unknown,1,0
+234,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Protein phosphatase PP2A regulatory subunit A | location=GLCHR04:1243339-1245336(-) | length=665,GL50803_16567,75 kDa,,unknown,1,0
+235,TRUE,Empty,"| organism=Giardia_Assemblage_A_isolate_WB | product=ATP/GTP binding protein, putative | location=GLCHR04:1125269-1126630(+) | length=453",GL50803_10370,53 kDa,,unknown,1,0
+236,TRUE,Empty,"| organism=Giardia_Assemblage_A_isolate_WB | product=ABC transporter, ATP-binding protein | location=GLCHR01:550514-553150(+) | length=878",GL50803_17165,97 kDa,,unknown,1,0
+237,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Ubiquitin-conjugating enzyme E1 | location=GLCHR05:2463417-2466695(-) | length=1092,GL50803_10661,121 kDa,,unknown,1,0
+238,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Protein disulfide isomerase PDI1 | location=GLCHR04:1421848-1422552(+) | length=234,GL50803_29487,26 kDa,,unknown,1,0
+239,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR05:830122-833073(-) | length=983,GL50803_16312,111 kDa,,unknown,1,0
+240,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Eukaryotic translation initiation factor 5A | location=GLCHR05:829656-830105(+) | length=149,GL50803_14614,17 kDa,,unknown,1,0
+241,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Aminoacyl-histidine dipeptidase | location=GLCHR05:1333710-1335230(+) | length=506,GL50803_8407,55 kDa,,unknown,1,0
+242,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR01:725572-726066(+) | length=164,GL50803_10196,18 kDa,,unknown,0,1
+243,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR03:290899-295260(-) | length=1453,GL50803_137753,163 kDa,,unknown,1,0
+244,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Chaperone protein dnaJ | location=GLCHR05:3754535-3755578(+) | length=347,GL50803_9751,40 kDa,,unknown,1,0
+245,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Farnesyl diphosphate synthase | location=GLCHR04:541501-542724(-) | length=407,GL50803_6633,46 kDa,,unknown,0,2
+246,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Regulator of nonsense transcripts 1-like protein | location=GLCHR04:129238-133152(+) | length=1304,GL50803_13452,147 kDa,,unknown,1,0
+247,TRUE,Empty,"| organism=Giardia_Assemblage_A_isolate_WB | product=Kinase, NEK | location=GLCHR05:894069-895862(-) | length=597",GL50803_8445,67 kDa,,unknown,1,0
+248,TRUE,Empty,"| organism=Giardia_Assemblage_A_isolate_WB | product=Kinase, NEK | location=GLCHR02:1091453-1092310(+) | length=285",GL50803_101534,31 kDa,,unknown,1,0
+249,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR05:1336634-1337971(+) | length=445,GL50803_8405,48 kDa,,unknown,1,0
+250,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Nucleotide-binding protein 1 | location=GLCHR02:327183-328202(+) | length=339,GL50803_10969,37 kDa,,unknown,1,0
+251,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR02:1401991-1402914(+) | length=307,GL50803_9503,35 kDa,,unknown,2,0
+252,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Threonyl-tRNA synthetase | location=GLCHR05:1205079-1207166(+) | length=695,GL50803_13998,79 kDa,,unknown,0,1
+253,TRUE,Empty,"| organism=Giardia_Assemblage_A_isolate_WB | product=Kinase, STE STE20 | location=CH991761:251395-252666(+) | length=423",GL50803_10609,47 kDa,,unknown,1,0
+254,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Synaptobrevin-like protein | location=GLCHR01:878817-879536(+) | length=239,GL50803_14469,26 kDa,,unknown,1,0
+255,TRUE,Empty,"| organism=Giardia_Assemblage_A_isolate_WB | product=Kinase, CAMK CAMKL | location=GLCHR03:195626-196924(-) | length=432",GL50803_16034,49 kDa,,unknown,1,0
+256,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR05:4344610-4349595(-) | length=1661,GL50803_16916,187 kDa,,unknown,1,0
+257,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Hypothetical protein | location=GLCHR03:1046378-1049002(+) | length=874,GL50803_16935,94 kDa,,unknown,1,0
+258,TRUE,Empty,"| organism=Giardia_Assemblage_A_isolate_WB | product=Kinase, NEK | location=GLCHR05:2055340-2057085(+) | length=581",GL50803_8152,65 kDa,,unknown,1,0
+259,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=VSP with INR | location=GLCHR03:76224-78443(+) | length=739,GL50803_101074 (+1),77 kDa,,unknown,1,0
+260,TRUE,Empty,| organism=Giardia_Assemblage_A_isolate_WB | product=Dynein heavy chain | location=GLCHR05:1748281-1749426(-) | length=381,GL50803_8172,43 kDa,,unknown,1,0
+,,,,,,,,,
+END OF FILE,,,,,,,,,

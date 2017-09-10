@@ -1,0 +1,227 @@
+H
+function,hits,gene_id
+Hypothetical protein,93,GL50803_17195
+Hypothetical protein,31,GL50803_101278
+Hypothetical protein,28,GL50803_17332
+Hypothetical protein,25,GL50803_94463
+Hypothetical protein,21,GL50803_103709
+Hypothetical protein,19,GL50803_9183
+Hypothetical protein,16,GL50803_16504
+Hypothetical protein,11,GL50803_8528
+Hypothetical protein,9,GL50803_41212
+Hypothetical protein,8,GL50803_11354
+Hypothetical protein,8,GL50803_17119
+Hypothetical protein,8,GL50803_11380
+Hypothetical protein,8,GL50803_8405
+Hypothetical protein,7,GL50803_16653
+Hypothetical protein,6,GL50803_5810
+Hypothetical protein,5,GL50803_6464
+hypothetical protein,5,GL50803_6933
+Hypothetical protein,5,GL50803_10881
+Hypothetical protein,4,GL50803_10708
+Hypothetical protein,4,GL50803_94117
+hypothetical protein,4,GL50803_16390
+Hypothetical protein,4,GL50803_17172
+Hypothetical protein,4,GL50803_17400
+Hypothetical protein,3,GL50803_90434
+Hypothetical protein,3,GL50803_4266
+NH
+function,hits,gene_id
+Elongation factor 1-alpha,99,GL50803_112304
+Cytosolic HSP70,90,GL50803_88765
+"Pyruvate, phosphate dikinase",87,GL50803_9909
+Elongation factor 2,84,GL50803_17570
+Pyruvate-flavodoxin oxidoreductase,64,GL50803_114609
+Acyl-CoA synthetase,62,GL50803_86511
+Arginine deiminase,55,GL50803_112103
+Pyruvate-flavodoxin oxidoreductase,55,GL50803_17063
+Ornithine carbamoyltransferase,55,GL50803_10311
+Beta tubulin,51,GL50803_101291
+UPL-1,48,GL50803_9779
+Alpha-tubulin,42,GL50803_103676
+Acyl-CoA synthetase,41,GL50803_16667
+"Kinase, NEK",41,GL50803_16824
+Phosphoglycerate kinase,40,GL50803_90872
+Acetyl-CoA synthetase,40,GL50803_13608
+Alcohol dehydrogenase,39,GL50803_93358
+14-3-3 protein,34,GL50803_6430
+Peroxiredoxin 1,34,GL50803_14521
+Transketolase,32,GL50803_9704
+Beta adaptin,31,GL50803_21423
+Bip,30,GL50803_17121
+Alpha-7.3 giardin,29,GL50803_114787
+Glycerol-3-phosphate dehydrogenase,29,GL50803_16125
+Dynamin,27,GL50803_14373
+Leucyl-tRNA synthetase,27,GL50803_8621
+Clathrin heavy chain,26,GL50803_102108
+Glyceraldehyde 3-phosphate dehydrogenase,26,GL50803_6687
+Translation elongation factor,26,GL50803_13561
+Heat shock protein HSP 90-alpha,25,GL50803_98054
+"Kinase, NEK-frag",25,GL50803_15411
+Pyruvate kinase,24,GL50803_3206
+Kinesin-3,23,GL50803_102101
+Kinesin-3,6,GL50803_102101
+Kinesin-3,3,GL50803_112846
+NADH oxidase lateral transfer candidate,23,GL50803_33769
+Axoneme-associated protein GASP-180,23,GL50803_137716
+NADP-specific glutamate dehydrogenase,22,GL50803_21942
+Elongation factor 1-gamma,22,GL50803_12102
+Carbamate kinase,22,GL50803_16453
+Glycogen phosphorylase,22,GL50803_6226
+Protein 21.1,20,GL50803_21505
+Protein 21.1,16,GL50803_21505
+NSF,20,GL50803_112681
+NSF,5,GL50803_112681
+Protein 21.1,19,GL50803_17060
+Vacuolar ATP synthase catalytic subunit A,19,GL50803_7532
+Alpha-1 giardin,18,GL50803_11654
+"Translation initiation factor eIF-4A, putative",18,GL50803_10255
+Beta-giardin,17,GL50803_4812
+Ribosomal protein L4,17,GL50803_17547
+Heat shock protein HSP 90-alpha,17,GL50803_13864
+Chaperone protein dnaJ,17,GL50803_15148
+"70 kDa peptidylprolyl isomerase, putative",17,GL50803_3643
+Prolyl-tRNA synthetase,17,GL50803_15983
+Ribosomal protein L23,16,GL50803_10091
+Ubiquitin-conjugating enzyme E1,16,GL50803_10661
+4-alpha-glucanotransferase,16,GL50803_8978
+"Kinase, NEK",15,GL50803_113553
+Ribosomal protein S3a,15,GL50803_16265
+"Kinase, SCY1",15,GL50803_8805
+Pyruvate kinase,15,GL50803_17143
+Ribosomal protein L7a,15,GL50803_17244
+Alpha-3 giardin,14,GL50803_11683
+Protein 21.1,14,GL50803_27925
+Pyrophosphate-fructose 6-phosphate 1-phosphotransferase alpha subunit,14,GL50803_14993
+Alpha adaptin,14,GL50803_17304
+Alpha-7.1 giardin,14,GL50803_103373
+Lysyl-tRNA synthetase,14,GL50803_16766
+Vacuolar protein sorting 35,13,GL50803_23833
+Enolase,12,GL50803_11118
+Protein 21.1,12,GL50803_32778
+"Kinase, NEK",12,GL50803_11390
+Aspartyl-tRNA synthetase,12,GL50803_10870
+Threonine dehydratase lateral transfer candidate,12,GL50803_12108
+Glutamate synthase,12,GL50803_7195
+Rab1a,12,GL50803_9558
+"Heat-shock protein, putative",12,GL50803_16412
+"Kinase, NAK",12,GL50803_12223
+Arginyl-tRNA synthetase,12,GL50803_10521
+"26S proteasome regulatory subunit, putative",12,GL50803_91643
+"Ser/Thr phosphatase 2A, 65kDa reg sub A",11,GL50803_7439
+Peptidyl-prolyl cis-trans isomerase B precursor,11,GL50803_17163
+Vacuolar ATP synthase subunit C,11,GL50803_87058
+Isoleucyl-tRNA synthetase,11,GL50803_104173
+Ribosomal protein L3,11,GL50803_16525
+TCP-1 chaperonin subunit eta,11,GL50803_16124
+A-type flavoprotein lateral transfer candidate,11,GL50803_10358
+Chaperone protein DnaJ,10,GL50803_9808
+"Long chain fatty acid CoA ligase, putative",10,GL50803_113892
+TCP-1 chaperonin subunit theta,10,GL50803_13500
+Alanyl-tRNA synthetase,10,GL50803_96460
+Stress-induced-phosphoprotein 1,10,GL50803_27310
+Rab11,10,GL50803_1695
+Serine/threonine protein phosphatase 7,10,GL50803_7588
+26S proteasome non-ATPase regulatory subunit 2,10,GL50803_33166
+Protein 21.1,9,GL50803_102813
+Ribosomal protein S14,9,GL50803_7878
+Coiled-coil protein,9,GL50803_113677
+Glutaminyl-tRNA synthetase,9,GL50803_9348
+Alpha-2 giardin,9,GL50803_7796
+Protein 21.1,8,GL50803_17568
+Mu adaptin,8,GL50803_8917
+"Kinase, STE STE20",8,GL50803_10609
+Phosphorylase B kinase gamma catalytic chain,8,GL50803_10698
+Malic enzyme,8,GL50803_14285
+"Kinase, NEK",8,GL50803_9421
+"Protein phosphatase 2A regulatory subunit, putative",8,GL50803_9894
+Importin beta-3 subunit,8,GL50803_15106
+Dipeptidyl-peptidase III,8,GL50803_33689
+GTP-binding nuclear protein RAN/TC4,7,GL50803_15869
+Vacuolar ATP synthase subunit B,7,GL50803_12216
+"Kinase, NEK",7,GL50803_16967
+Glycyl-tRNA synthetase,7,GL50803_9011
+Eukaryotic translation initiation factor 5A,7,GL50803_14614
+Coatomer alpha subunit,7,GL50803_11953
+Protein 21.1,7,GL50803_24842
+"Kinase, STE STE20",7,GL50803_15514
+Dynein intermediate chain,7,GL50803_33218
+Phosphatase,7,GL50803_14404
+"Polyadenylate-binding protein, putative",7,GL50803_5942
+Ubiquitin,7,GL50803_7110
+Aminoacyl-histidine dipeptidase,6,GL50803_15832
+Protein 21.1,6,GL50803_14254
+TBP-interacting protein TIP49,6,GL50803_9825
+Regulator of nonsense transcripts 1-like protein,6,GL50803_13452
+Nucleoside diphosphate kinase,6,GL50803_11301
+Protein phosphatase PP2A regulatory subunit B,6,GL50803_4079
+NADH oxidase,6,GL50803_9719
+Protein 21.1,6,GL50803_16220
+Ribosomal protein L7,6,GL50803_19436
+"Kinase, CAMK CAMKL",6,GL50803_16034
+Ribosomal protein L18a,6,GL50803_16387
+"Ser/Thr phosphatase 2C, putative",6,GL50803_11740
+Glucose-6-phosphate 1-dehydrogenase,6,GL50803_8682
+Sec31,6,GL50803_2562
+L-serine dehydratase,6,GL50803_24662
+Serine/threonine protein phosphatase PP-X isozyme 2,6,GL50803_14311
+"Kinase, NEK",6,GL50803_101534
+Ribosomal protein L15,6,GL50803_8001
+Ribosomal protein L30,6,GL50803_14321
+Coiled-coil protein,5,GL50803_10167
+Ubiquitin carboxyl-terminal hydrolase 4,5,GL50803_14460
+Aminoacyl-histidine dipeptidase,5,GL50803_8407
+"Metalloprotease, insulinase family",5,GL50803_9508
+ATP-dependent RNA helicase-like protein,5,GL50803_15048
+Axoneme-associated protein GASP-180,5,GL50803_16745
+"Kinase, CAMK CAMKL",5,GL50803_14364
+Fe-hydrogenase-1,5,GL50803_6304
+"Kinase, STE STE20",5,GL50803_22165
+Ser/Thr phosphatase,5,GL50803_15214
+Ser/Thr protein kinase,5,GL50803_15410
+Glucose-6-phosphate isomerase,4,GL50803_9115
+"Spindle pole protein, putative",4,GL50803_7031
+Ribosomal protein L11,4,GL50803_5593
+"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",4,GL50803_8822
+Histone H2B,4,GL50803_121045
+Ribosomal protein L10a,4,GL50803_1345
+Inositol 5-phosphatase 4,4,GL50803_9077
+UTP-glucose-1-phosphate uridylyltransferase,4,GL50803_29307
+"Spindle pole protein, putative",4,GL50803_17055
+Axoneme central apparatus protein,4,GL50803_16202
+Ribosomal protein S6,4,GL50803_14620
+Vacuolar ATP synthase subunit H,4,GL50803_14961
+RNase L inhibitor,4,GL50803_7662
+Protein 21.1,4,GL50803_8174
+Xaa-Pro dipeptidase,4,GL50803_17327
+"ATP-dependent RNA helicase p47, putative",4,GL50803_16376
+Ribosomal protein L13,4,GL50803_14622
+Vacuolar protein sorting 29,4,GL50803_103855
+Protein phosphatase PP2A regulatory subunit A,4,GL50803_16567
+26S protease regulatory subunit 7,4,GL50803_86683
+Ribosomal protein L27,4,GL50803_8462
+"Kinase, NEK",4,GL50803_26199
+Protein phosphatase 2C,4,GL50803_32312
+Ribosomal protein S2,4,GL50803_8118
+Ribosomal protein S7,3,GL50803_14329
+Ribosomal protein L19,3,GL50803_16431
+Ubiquitin carboxyl-terminal hydrolase 14,3,GL50803_102710
+TCP-1 chaperonin subunit epsilon,3,GL50803_11992
+Dynein heavy chain,3,GL50803_103059
+"Kinase, CDC7",3,GL50803_112076
+"Metalloprotease, insulinase family",3,GL50803_93551
+"Kinase, NEK",3,GL50803_17231
+FKBP-type peptidyl-prolyl cis-trans isomerase,3,GL50803_10570
+"Kinase, CMGC MAPK",3,GL50803_22850
+"Kinase, NEK",3,GL50803_2483
+DNA-directed RNA polymerase II largest subunit RPB1,3,GL50803_89347
+"Triosephosphate isomerase, cytosolic",3,GL50803_93938
+Ribosomal protein S24,3,GL50803_10367
+Phosphatase,3,GL50803_13875
+IFT complex B,3,GL50803_17105
+Long chain fatty acid CoA ligase 5,3,GL50803_9062
+"Kinase, NEK",3,GL50803_8445
+"Transcription factor, putative",3,GL50803_16568
+Protein 21.1,3,GL50803_137703
+"Alanine aminotransferase, putative",3,GL50803_12150
+20S proteasome alpha subunit 2,3,GL50803_11434
